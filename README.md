@@ -9,6 +9,7 @@
 - MacBookPro16,3
 - macOS: Monterey
 - Working: OpencCore 8.6
+- Onboard Mic no work
 # ACPI
 - SSD-AWAC.aml
 - SSDT-EC-USBX-LAPTOP.aml
